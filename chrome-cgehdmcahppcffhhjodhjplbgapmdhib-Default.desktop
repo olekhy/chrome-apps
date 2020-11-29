@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Can I use... Support tables for HTML5, CSS3, etc
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=cgehdmcahppcffhhjodhjplbgapmdhib
+Icon=chrome-cgehdmcahppcffhhjodhjplbgapmdhib-Default
+StartupWMClass=crx_cgehdmcahppcffhhjodhjplbgapmdhib

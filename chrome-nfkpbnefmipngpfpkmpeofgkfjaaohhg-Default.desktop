@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Cool Linux Command-Line Image Managem...
+Exec=/usr/bin/chromium-browser --profile-directory=Default --app-id=nfkpbnefmipngpfpkmpeofgkfjaaohhg
+Icon=chrome-nfkpbnefmipngpfpkmpeofgkfjaaohhg-Default
+StartupWMClass=crx_nfkpbnefmipngpfpkmpeofgkfjaaohhg

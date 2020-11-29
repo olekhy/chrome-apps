@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=UI Garage - Daily UI Inspiration & Patterns for Web, Mobile & Tablet.
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=eifojcpldmlabbdadojoekdhmpogjgma
+Icon=chrome-eifojcpldmlabbdadojoekdhmpogjgma-Default
+StartupWMClass=crx_eifojcpldmlabbdadojoekdhmpogjgma

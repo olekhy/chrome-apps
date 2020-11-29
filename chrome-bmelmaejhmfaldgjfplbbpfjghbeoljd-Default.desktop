@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=What’s New in PHP 7.4 (Features, Deprecations, Speed)
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=bmelmaejhmfaldgjfplbbpfjghbeoljd
+Icon=chrome-bmelmaejhmfaldgjfplbbpfjghbeoljd-Default
+StartupWMClass=crx_bmelmaejhmfaldgjfplbbpfjghbeoljd

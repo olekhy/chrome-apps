@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Generate Random CSV - Online Random Tools
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=ngjncgbkdmoagkeobfalmlkploiiigoc
+Icon=chrome-ngjncgbkdmoagkeobfalmlkploiiigoc-Default
+StartupWMClass=crx_ngjncgbkdmoagkeobfalmlkploiiigoc

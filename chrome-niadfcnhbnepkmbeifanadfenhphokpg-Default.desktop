@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=6 Reasons Why JavaScript Async/Await Blows Promises Away (Tutorial) | Hacker Noon
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=niadfcnhbnepkmbeifanadfenhphokpg
+Icon=chrome-niadfcnhbnepkmbeifanadfenhphokpg-Default
+StartupWMClass=crx_niadfcnhbnepkmbeifanadfenhphokpg

@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Table Of Contents — PHP Internals Book
+Exec=/usr/bin/chromium-browser --profile-directory=Default --app-id=jlkdcjfifakiomcbkmhiaionelniicdp
+Icon=chrome-jlkdcjfifakiomcbkmhiaionelniicdp-Default
+StartupWMClass=crx_jlkdcjfifakiomcbkmhiaionelniicdp

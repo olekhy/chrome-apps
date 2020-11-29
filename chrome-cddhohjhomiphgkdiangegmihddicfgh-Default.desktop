@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Tom Butler's Programming Blog - MVC i...
+Exec=/usr/bin/chromium-browser --profile-directory=Default --app-id=cddhohjhomiphgkdiangegmihddicfgh
+Icon=chrome-cddhohjhomiphgkdiangegmihddicfgh-Default
+StartupWMClass=crx_cddhohjhomiphgkdiangegmihddicfgh

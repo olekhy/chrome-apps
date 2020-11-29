@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=DevSamples | Code snippets for any need
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=gifgcighjoopnggdjfoilafiahjpoehe
+Icon=chrome-gifgcighjoopnggdjfoilafiahjpoehe-Default
+StartupWMClass=crx_gifgcighjoopnggdjfoilafiahjpoehe

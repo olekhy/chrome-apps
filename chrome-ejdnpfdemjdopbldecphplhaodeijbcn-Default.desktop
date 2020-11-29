@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Lorem Picsum
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=ejdnpfdemjdopbldecphplhaodeijbcn
+Icon=chrome-ejdnpfdemjdopbldecphplhaodeijbcn-Default
+StartupWMClass=crx_ejdnpfdemjdopbldecphplhaodeijbcn

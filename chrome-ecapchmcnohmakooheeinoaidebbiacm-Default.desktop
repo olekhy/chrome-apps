@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=DEV Community How to make a review of Code
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=ecapchmcnohmakooheeinoaidebbiacm
+Icon=chrome-ecapchmcnohmakooheeinoaidebbiacm-Default
+StartupWMClass=crx_ecapchmcnohmakooheeinoaidebbiacm

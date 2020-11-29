@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Service Versionierung: WSDL Schnittst...
+Exec=/usr/bin/chromium-browser --profile-directory=Default --app-id=hjkkjpmgojppniihkfnddeobejamomik
+Icon=chrome-hjkkjpmgojppniihkfnddeobejamomik-Default
+StartupWMClass=crx_hjkkjpmgojppniihkfnddeobejamomik

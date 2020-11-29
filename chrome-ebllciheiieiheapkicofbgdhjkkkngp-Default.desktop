@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Introducing WebSocket: Bringing Sockets to the Web - HTML5 Rocks
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=ebllciheiieiheapkicofbgdhjkkkngp
+Icon=chrome-ebllciheiieiheapkicofbgdhjkkkngp-Default
+StartupWMClass=crx_ebllciheiieiheapkicofbgdhjkkkngp

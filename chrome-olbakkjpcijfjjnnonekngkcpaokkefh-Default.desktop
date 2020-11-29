@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Box Shadow CSS Generator | CSSmatic
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=olbakkjpcijfjjnnonekngkcpaokkefh
+Icon=chrome-olbakkjpcijfjjnnonekngkcpaokkefh-Default
+StartupWMClass=crx_olbakkjpcijfjjnnonekngkcpaokkefh

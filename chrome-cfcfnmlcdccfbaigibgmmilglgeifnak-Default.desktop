@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Der WordPress Typ - Online erfolgreich mit WordPress
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=cfcfnmlcdccfbaigibgmmilglgeifnak
+Icon=chrome-cfcfnmlcdccfbaigibgmmilglgeifnak-Default
+StartupWMClass=crx_cfcfnmlcdccfbaigibgmmilglgeifnak

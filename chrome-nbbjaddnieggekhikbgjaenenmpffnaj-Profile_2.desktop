@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Leagues - Top Stack Exchange users per week, month, quarter, and year
+Exec=/opt/google/chrome/google-chrome "--profile-directory=Profile 2" --app-id=nbbjaddnieggekhikbgjaenenmpffnaj
+Icon=chrome-nbbjaddnieggekhikbgjaenenmpffnaj-Profile_2
+StartupWMClass=crx_nbbjaddnieggekhikbgjaenenmpffnaj

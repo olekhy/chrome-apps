@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Flathub—An app store and build service for Linux
+Exec=/opt/google/chrome/google-chrome "--profile-directory=Profile 2" --app-id=hekmcnckjkppceoppfdblcfmladeldij
+Icon=chrome-hekmcnckjkppceoppfdblcfmladeldij-Profile_2
+StartupWMClass=crx_hekmcnckjkppceoppfdblcfmladeldij

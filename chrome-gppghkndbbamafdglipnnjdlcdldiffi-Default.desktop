@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=PHPStan Playground
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=gppghkndbbamafdglipnnjdlcdldiffi
+Icon=chrome-gppghkndbbamafdglipnnjdlcdldiffi-Default
+StartupWMClass=crx_gppghkndbbamafdglipnnjdlcdldiffi

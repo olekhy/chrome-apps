@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Jasper | Control everything with your voice
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=dggjdpbgmngikndkpemcghnnakflhiab
+Icon=chrome-dggjdpbgmngikndkpemcghnnakflhiab-Default
+StartupWMClass=crx_dggjdpbgmngikndkpemcghnnakflhiab

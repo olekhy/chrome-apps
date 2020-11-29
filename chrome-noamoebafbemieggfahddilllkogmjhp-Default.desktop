@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Record Not Found - Open Source Projec...
+Exec=/usr/bin/chromium-browser --profile-directory=Default --app-id=noamoebafbemieggfahddilllkogmjhp
+Icon=chrome-noamoebafbemieggfahddilllkogmjhp-Default
+StartupWMClass=crx_noamoebafbemieggfahddilllkogmjhp
